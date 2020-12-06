@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arithmetical" />
+    <item name="Plus" type="string">Plus</item>
+    <item name="Minus" type="string">Minus</item>
+    <item name="Gange" type="string">Gange</item>
+    <item name="Divider" type="string">Divider</item>
+</resources>
